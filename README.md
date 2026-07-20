@@ -6,12 +6,12 @@ I enjoy exploring the engineering behind mobile apps — from architecture and s
 
 ## What I focus on
 
-- 📱 Flutter & mobile application development
-- 🏗️ Clean Architecture and scalable state management
-- ⚡ Performance profiling and optimization
-- 🧪 Unit, widget, and integration testing
-- 🔥 Firebase and offline-first data flows
-- 🚀 CI/CD and production delivery
+-  Flutter & mobile application development
+-  Clean Architecture and scalable state management
+-  Performance profiling and optimization
+-  Unit, widget, and integration testing
+-  Firebase and offline-first data flows
+-  CI/CD and production delivery
 
 ## Currently exploring
 
