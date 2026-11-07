@@ -10,7 +10,8 @@ Flutter developer focused on designing and building mobile applications.
 -  Unit, widget, and integration testing
 -  Firebase and offline-first data flows
 -  CI/CD and production delivery
--  Wireframing, Prototyping, Designing in Figma 
+-  Wireframing, Prototyping, Designing in Figma
+-  UI&UX
 
 ## Currently exploring
 
