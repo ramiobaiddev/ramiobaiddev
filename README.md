@@ -1,8 +1,6 @@
 # Rami Obaid
 
-Flutter developer focused on building mobile applications beyond the **"make it work"** stage.
-
-I enjoy exploring the engineering behind mobile apps — from architecture and state management to performance profiling, testing, Firebase, and production delivery.
+Flutter developer focused on designing and building mobile applications.
 
 ## What I focus on
 
@@ -12,6 +10,7 @@ I enjoy exploring the engineering behind mobile apps — from architecture and s
 -  Unit, widget, and integration testing
 -  Firebase and offline-first data flows
 -  CI/CD and production delivery
+-  Wireframing, Prototyping, Designing in Figma 
 
 ## Currently exploring
 
@@ -21,8 +20,8 @@ I also share practical lessons from the things I build, debug, and learn along t
 
 ## Tech
 
-`Flutter` · `Dart` · `Firebase` · `BLoC / Cubit` · `REST APIs` · `Git` · `GitHub Actions` · `Fastlane`
+`Flutter` · `Dart` · `Firebase` · `BLoC / Cubit` · `REST APIs` · `Git` · `GitHub Actions` · `Fastlane` · `jaspr` · `Html` · `css`
 
 ---
 
-Building. Debugging. Optimizing. Shipping.
+Designing.Building. Debugging. Optimizing. Shipping.
